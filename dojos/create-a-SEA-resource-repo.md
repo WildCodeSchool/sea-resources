@@ -57,6 +57,6 @@ Step 11: Get the latest changes to first local Repo
 
 ### Known Issues
 
-Q:"main and master are entirely different commit histories."
-S: https://stackoverflow.com/questions/23344320/there-isnt-anything-to-compare-nothing-to-compare-branches-are-entirely-diffe
+Q: "main and master are entirely different commit histories."  
+A: https://stackoverflow.com/questions/23344320/there-isnt-anything-to-compare-nothing-to-compare-branches-are-entirely-diffe
 
