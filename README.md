@@ -6,6 +6,6 @@ Zur leichteren Lesbarkeit in GitHub sollten alle Resources als [Markdown Dokumen
 
 ### Themen
 
-#### [Dojos](../dojos)
-#### [Links](../links/links.md)
+#### [Dojos](dojos)
+#### [Links](links/links.md)
 
