@@ -1,16 +1,16 @@
-Create a SEA Resource Repo
+# Create a SEA Resource Repo
 
-As a participant of SEA, I can quickly access (and change) resources which are important for the training.
+    As a participant of SEA, I can quickly access (and change) resources which are important for the training.
 
-Dojo:
+## Dojo
 
-Setupstep:
+### Setup
 
 * Set default branch to "main"
 
 Step 1: Create a local git repository 
 
-`git init`
+* `git init`
 
 Step 2: Add a new file to the repo (eg. links.md)
 
@@ -54,7 +54,7 @@ Step 9: Push the changes
 Step 10: Revisit the changes in GitHub
 Step 11: Get the latest changes to first local Repo
 
-Known Errors:
+### Known Issues
 
 Q:"main and master are entirely different commit histories."
 S: https://stackoverflow.com/questions/23344320/there-isnt-anything-to-compare-nothing-to-compare-branches-are-entirely-diffe
