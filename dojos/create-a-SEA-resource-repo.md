@@ -7,6 +7,7 @@
 ### Setup
 
 * Set default branch to "main"
+* `git config --global init.defaultBranch main`
 
 Step 1: Create a local git repository 
 
