@@ -9,3 +9,7 @@
 ### GitHub Personal Access Token
 
 * https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+### Presentations
+
+* [Recap Git First Week](http://slides.com/moji3000/git_presentation/fullscreen)
