@@ -15,6 +15,6 @@
 
 * [Eclipse Temurin](https://adoptium.net/) - Java 11
 
-#### IDE 
+#### Java IDE 
 
 * [IntelliJ IDEA Community Ed. for Windows](https://www.jetbrains.com/idea/download/#section=windows)
