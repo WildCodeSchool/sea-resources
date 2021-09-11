@@ -4,7 +4,7 @@
 
 ## Dojo
 
-![](img/dojo_local.png)
+![](img/dojo_git.png)
 
 ### Setup
 
