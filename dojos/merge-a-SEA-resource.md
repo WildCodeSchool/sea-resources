@@ -54,6 +54,10 @@ Step 9: Push the changes
 
 * `git push origin main`
 
+Step 10: Revisit the changes in GitHub
+
+Step 11: Get the latest changes to first local Repo
+
 ### Known Issues
 
 Q: "main and master are entirely different commit histories."  
