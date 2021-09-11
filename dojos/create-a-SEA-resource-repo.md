@@ -4,6 +4,8 @@
 
 ## Dojo
 
+![](img/dojo_git.png)
+
 ### Setup
 
 * Set default branch to "main"
