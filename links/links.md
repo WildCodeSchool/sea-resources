@@ -13,3 +13,7 @@
 ### Presentations
 
 * [Recap Git First Week](http://slides.com/moji3000/git_presentation/fullscreen)
+
+### Useful Things
+
+* [Git reset vs. revert and remote](https://www.reddit.com/r/git/comments/hsgmic/can_git_reset_ever_affect_whats_on_the_remote/fyfxmrp?utm_source=share&utm_medium=web2x&context=3)
