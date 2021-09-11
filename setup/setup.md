@@ -27,6 +27,7 @@ _Personal Access Token Variante_
 _SSH Authentication Variante_
 
 1. [SSH Keys erstellen](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+2. [SSH Public Key in GitHub hinterlegen](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) 
 2. Im Terminal: `git remote set-url origin git@github.com:WildCodeSchool/sea-resources.git`
 3. Datei `sandbox.txt` ändern
 4. Änderungen pushen: `git add`, `git commit` und `git push`

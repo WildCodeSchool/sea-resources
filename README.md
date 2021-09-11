@@ -6,6 +6,7 @@ Zur leichteren Lesbarkeit in GitHub sollten alle Resources als [Markdown Dokumen
 
 ### Themen
 
+* [Rechnersetup](setup/setup.md)
 * [Kursinformationen](kursinfos/KickOffSEAWelle6.pdf)
 * [Dojos](dojos)
 * [Links](links/links.md)
