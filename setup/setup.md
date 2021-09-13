@@ -36,11 +36,23 @@ _SSH Authentication Variante_
 
 * [Eclipse Temurin](https://adoptium.net/) - Java 11
 
+##### Prüfung der Installation
+
+_Neustart nach Installation ist erforderlich_
+
+* Kann der Befehl `java -version` aufgerufen werden?
+* Kann der Befehl `javac -version` aufgerufen werden?
+
 #### Allgemeiner Editor 
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 
 _Note: Associate all text file types with VSCode_
+
+##### Prüfung der Installation
+
+* Ist eine Desktopverknüpfung vorhanden?
+* Kann `code` in einem Terminal aufgerufen werden?
 
 #### Java IDE 
 
