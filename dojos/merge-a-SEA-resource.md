@@ -14,13 +14,13 @@
 (Co) Step 1d: Create a new repository on GitHub  
 (Co) Step 1e: Push local changes to GitHub
 
-(Ma) Step 2: Clone Repo (...) to local Repo  
-(Ma) Step 4: Change first line of newfile.txt and commit  
+(Mo) Step 2: Clone Repo (...) to local Repo  
+(Mo) Step 4: Change first line of newfile.txt and commit  
 
 (Ch) Step 3: Clone Repo (...) to new local Repo  
 (Ch) Step 5: Change first line of newfile.txt and commit
 
-(Ma) Step 6: Push changes to GitHub
+(Mo) Step 6: Push changes to GitHub
 
 (Ch) Step 7a: Push changes to GitHub  
 (Ch) Step 7b: Resolve Merge Conflict  
@@ -28,3 +28,8 @@
 
 (RR) Step 8a: Clone repo to local repo  
 (RR) Step 8b: Watch changes in file newfile.txt
+
+### Known Issues
+
+Q: After creating a README, I cannot connect my local Repo to the GitHub one (unrelated histories)  
+A: "git pull origin main --allow-unrelated-histories"
