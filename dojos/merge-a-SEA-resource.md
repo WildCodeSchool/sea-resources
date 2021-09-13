@@ -28,3 +28,8 @@
 
 (RR) Step 8a: Clone repo to local repo  
 (RR) Step 8b: Watch changes in file newfile.txt
+
+### Known Issues
+
+Q: After creating a README, I cannot connect my local Repo to the GitHub one (unrelated histories)  
+A: "git pull origin main --allow-unrelated-histories"

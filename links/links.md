@@ -21,3 +21,11 @@
 ### CodeWars and Alternatives
 
 * https://sourceforge.net/software/product/Codewars/alternatives
+
+### Advanced Git/GitHub
+
+#### Forking & Pull Requests
+
+* https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow
+* https://www.earthdatascience.org/workshops/intro-version-control-git/about-forks/
+* https://www.earthdatascience.org/workshops/intro-version-control-git/pull-request/
