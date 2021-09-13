@@ -124,10 +124,11 @@ Let's look at an example:
 ```java
 class ClassName {
 
-public static void main(String[] args) {
-// do stuff
-System.out.println("Awesome!");
-}
+    public static void main(String[] args) {
+        // do stuff
+        System.out.println("Awesome!");
+    }
+
 }
 
 ```
@@ -146,10 +147,11 @@ If everything has gone well up until this point, you should have the following c
 ```java
 class HelloWorld {
 
-public static void main(String[] args) {
-// display Hello World! in the terminal
-System.out.println("Hello World!");
-}
+    public static void main(String[] args) {
+        // display Hello World! in the terminal
+        System.out.println("Hello World!");
+    }
+    
 }
 
 ```
