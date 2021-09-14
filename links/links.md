@@ -29,3 +29,7 @@
 * https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow
 * https://www.earthdatascience.org/workshops/intro-version-control-git/about-forks/
 * https://www.earthdatascience.org/workshops/intro-version-control-git/pull-request/
+
+### Why Java?
+
+* https://www.slideshare.net/gembel_linux/why-java-1271334 (old presentation, but focussed)
