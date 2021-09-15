@@ -57,6 +57,7 @@ _Note: Associate all text file types with VSCode_
 
 * Ist eine Desktopverknüpfung vorhanden?
 * Kann `code` in einem Terminal aufgerufen werden?
+  * Hinweis: "_Open Visual Studio Code and press Command + Shift + P or F1 then type Shell in command palette now you are able to find this option "**Shell Command: Install 'code' command in PATH**". Select that option_"
 
 #### Java IDE 
 
