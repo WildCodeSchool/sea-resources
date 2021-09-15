@@ -9,11 +9,14 @@
 
 #### Lokale Git-Installation
 
-* [GitHub Desktop](https://desktop.github.com/)
+...
 
 ##### Setup Git
 
-* Credentials aus GitHub nutzen
+* Install Homebrew `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+* Install Git: `brew install git`
+* Install GCM Core: `brew tap microsoft/git` und `brew install --cask git-credential-manager-core`
+* Install GitHub Extensions: `brew install gh`
 
 ##### Prüfung der Installation
 
