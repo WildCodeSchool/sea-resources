@@ -12,3 +12,7 @@ Zur leichteren Lesbarkeit in GitHub sollten alle Resources als [Markdown Dokumen
 * [Links](links/links.md)
 * [Retros](retros)
 
+### Konfigurationen
+
+* Chat:  https://chat.wilders.dev
+* Video: https://meet.wilders.dev
