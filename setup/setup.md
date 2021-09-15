@@ -2,8 +2,8 @@
 
 ### Prüfen
 
-* Ist Windows 10 installiert?
-* Gibt es keine Restriktionen bgzl. Installationen (Adminrechte)?
+* Ist MacOS vollständig installiert, d.h. ist der Desktop sichtbar?
+* Besteht eine stabile Internetverbindung (es werden ggf. mehrere Gb an Daten transferiert!)
 
 ### Installationen
 
@@ -56,6 +56,6 @@ _Note: Associate all text file types with VSCode_
 
 #### Java IDE 
 
-* [IntelliJ IDEA Community Ed. for Windows](https://www.jetbrains.com/idea/download/#section=windows)
+* [IntelliJ IDEA Community Ed. for Mac](https://www.jetbrains.com/idea/download/#section=mac)
 
 _Note: Associate Java, Kotlin and Groovy files with IntelliJ_  
