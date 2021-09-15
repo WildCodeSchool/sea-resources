@@ -9,10 +9,12 @@
 
 ##### Install & Setup Git
 
+_Achtung: Diese Schritte bitte nicht eigenständig ausführen!_
+
 * Install Homebrew `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 * Install Git: `brew install git`
-  * Note: `echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/----------/.zprofile`
-  * Note: `eval "$(/opt/homebrew/bin/brew shellenv)"`
+  * `echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/----------/.zprofile`
+  * `eval "$(/opt/homebrew/bin/brew shellenv)"`
 * Install GCM Core: `brew tap microsoft/git` und `brew install --cask git-credential-manager-core`
 * Install GitHub Extensions: `brew install gh`
 * Configure Git: `gh auth login`
