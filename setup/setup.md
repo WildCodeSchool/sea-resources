@@ -13,6 +13,7 @@
 * Install Git: `brew install git`
 * Install GCM Core: `brew tap microsoft/git` und `brew install --cask git-credential-manager-core`
 * Install GitHub Extensions: `brew install gh`
+* Configure Git: `gh auth login`
 
 ##### Prüfung der Installation
 
