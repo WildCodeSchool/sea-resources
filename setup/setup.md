@@ -12,9 +12,9 @@
 _Achtung: Diese Schritte bitte nicht eigenständig ausführen!_
 
 * Install Homebrew `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
-* Install Git: `brew install git`
   * `echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/----------/.zprofile`
   * `eval "$(/opt/homebrew/bin/brew shellenv)"`
+* Install Git: `brew install git`
 * Install GCM Core: `brew tap microsoft/git` und `brew install --cask git-credential-manager-core`
 * Install GitHub Extensions: `brew install gh`
 * Configure Git: `gh auth login`
@@ -57,6 +57,7 @@ _Note: Associate all text file types with VSCode_
 
 * Ist eine Desktopverknüpfung vorhanden?
 * Kann `code` in einem Terminal aufgerufen werden?
+  * Hinweis: "_Open Visual Studio Code and press Command + Shift + P or F1 then type Shell in command palette now you are able to find this option "**Shell Command: Install 'code' command in PATH**". Select that option_"
 
 #### Java IDE 
 
