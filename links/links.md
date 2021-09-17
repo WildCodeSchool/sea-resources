@@ -34,7 +34,7 @@
 
 * https://www.slideshare.net/gembel_linux/why-java-1271334 (old presentation, but focussed)
 
-### Java Details
+### Introduction to Java
 
 * [Baeldung Back to Basics](https://www.baeldung.com/java-tutorial), speziell [Getting Started with Java](https://www.baeldung.com/get-started-with-java-series)
 * [Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/)
