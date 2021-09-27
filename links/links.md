@@ -39,6 +39,10 @@
 * [Baeldung Back to Basics](https://www.baeldung.com/java-tutorial), speziell [Getting Started with Java](https://www.baeldung.com/get-started-with-java-series)
 * [Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/)
 
+### Data Generator
+
+* https://generatedata.com/
+
 ### Tools
 
 #### Jitsi Meet Electron
