@@ -39,6 +39,11 @@
 * [Baeldung Back to Basics](https://www.baeldung.com/java-tutorial), speziell [Getting Started with Java](https://www.baeldung.com/get-started-with-java-series)
 * [Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/)
 
+### Java Collections
+
+* [How to do what in Collections](https://www.baeldung.com/java-collections)
+* [Time Complexity of Collections](https://www.baeldung.com/java-collections-complexity)
+
 ### Data Generator
 
 * https://generatedata.com/
