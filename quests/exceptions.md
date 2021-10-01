@@ -23,8 +23,7 @@ public class WildException {
     public static void main(String[] args) {
         int i = 3;
         int j = 0;
-        System.out.println("résultat = " + (i / j));
-        System.out.println("Fin!");
+        System.out.println("result = " + (i / j));
     }
 }
 
@@ -69,10 +68,9 @@ public class WildException2 {
             int j = 0;
             System.out.println("résultat = " + (i / j));
         } catch (ArithmeticException e) {
-            System.err.println("Division par zero interdite !!");
+            System.err.println("Division by Zero occurred!");
         }
-        System.out.println("Wilder tu as bien gérer l'exception et donc je continue l'execution");
-        System.out.println("Fin!");
+        System.out.println("You handled the exception well and I continued the execution.");
 
     }
 
@@ -82,9 +80,9 @@ public class WildException2 {
 
 If there are several types of errors and exceptions to intercept, as many catch blocks as event types must be defined. By type of exception is meant "which is of the type of the class of the exception or one of its subclasses".
 
-Thus in the sequential order of the clauses`catch`an exception type should not come after a superclass exception type.**Care must be taken with the order of the catch clauses to deal with the more specific exceptions (subclasses) first before the more general exceptions.** An error message is issued by the compiler if this is not the case.
+Thus in the sequential order of the clauses `catch` an exception type should not come after a superclass exception type. **Care must be taken with the order of the catch clauses to deal with the more specific exceptions (subclasses) first before the more general exceptions.** An error message is issued by the compiler if this is not the case.
 
-To illustrate the importance of the order of the clauses`catch`implements this piece of code:
+To illustrate the importance of the order of the clauses `catch` implements this piece of code:
 
 ```java
 public class WildException3 {
@@ -92,7 +90,7 @@ public class WildException3 {
         int i = 3;
         int j = 0;
         try {
-            System.out.println("résultat = " + (i / j));
+            System.out.println("result = " + (i / j));
         } catch (Exception e) {
         } catch (ArithmeticException e) {
         }
@@ -101,7 +99,7 @@ public class WildException3 {
 
 ```
 
-If you use a_IDE_you'll have a mistake like **unreachable catch block** which simply tells you that this code will never be executed because...`ArithmeticException` is a subclass of the class `Exception`.
+If you use a_IDE_you'll have a mistake like **unreachable catch block** which simply tells you that this code will never be executed because... `ArithmeticException` is a subclass of the class `Exception`.
 Otherwise, you'll get a compilation error that tells you the same thing:
 
 ![](https://image.noelshack.com/fichiers/2019/45/5/1573238099-exception2.jpg)
@@ -119,9 +117,9 @@ public class WildException4 {
             int j = 0;
             System.out.println("résultat = " + (i / j));
         } catch (ArithmeticException e) {
-            System.err.println("Division par zero interdite !!");
+            System.err.println("Division by Zero occurred!");
         } finally {
-            System.out.println("action faite systématiquement");
+            System.out.println("In any case, we will end here.");
         }
     }
 }
@@ -146,12 +144,12 @@ The code block inside the `finally` will be executed in any case.
 
 ### Sum of odd numbers
 
-To get started, [make a Fork of the following repository](https://github.com/WildCodeSchool/quest_java_exceptions.git) then clone it locally.
+To get started, [make a Fork of the following repository]() then clone it locally.
 > Remember to do a_Fork_or you won't be able to push anything!
 
 ### Validation criterias
 
 * The code is clean and contains the `try` and `catch`.
-* The test runs without error and all tests are OK.
+* The test `hhh` runs without error and all tests are OK.
 * Use the appropriate type of exception.
 
