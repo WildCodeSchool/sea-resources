@@ -144,12 +144,12 @@ The code block inside the `finally` will be executed in any case.
 
 ### Sum of odd numbers
 
-To get started, [make a Fork of the following repository]() then clone it locally.
+To get started, [make a Fork of the following repository](https://github.com/ice09/quest_java_exceptions.git) then clone it locally.
 > Remember to do a_Fork_or you won't be able to push anything!
 
 ### Validation criterias
 
 * The code is clean and contains the `try` and `catch`.
-* The test `hhh` runs without error and all tests are OK.
+* The test `OddSumTest` runs without error and all tests are OK.
 * Use the appropriate type of exception.
 
