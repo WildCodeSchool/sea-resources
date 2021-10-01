@@ -46,7 +46,7 @@ As you can see, you had an exception and your program ended abruptly. You can ha
 
 #### 2. Keywords try, catch
 
-Look at[this course](https://www.jmdoudoux.fr/java/dej/chap-exceptions.htm#exceptions-1)he'll teach you everything you need to know about try and catch.
+Look at [this course](https://www.jmdoudoux.fr/java/dej/chap-exceptions.htm#exceptions-1) he'll teach you everything you need to know about try and catch.
 
 #### 3. Explanations and remarks
 
@@ -101,19 +101,14 @@ public class WildException3 {
 
 ```
 
-If you use a_IDE_you'll have a mistake like**unreachable catch block**which simply tells you that this code will never be executed because...`ArithmeticException` is a subclass of the class`Exception`.
+If you use a_IDE_you'll have a mistake like **unreachable catch block** which simply tells you that this code will never be executed because...`ArithmeticException` is a subclass of the class `Exception`.
 Otherwise, you'll get a compilation error that tells you the same thing:
 
 ![](https://image.noelshack.com/fichiers/2019/45/5/1573238099-exception2.jpg)
 
-```resource
-https://www.jmdoudoux.fr/java/dej/chap-exceptions.htm
-# Exception handling
-```
-
 ### Finally
 
-Let's say you want to perform an action, whether an exception is raised or not ([Java Finally block - Exception handling](https://beginnersbook.com/2013/04/java-finally-block/)). Java allows you to use a clause via the keyword`finally`. Let's see what this code does:
+Let's say you want to perform an action, whether an exception is raised or not ([Java Finally block - Exception handling](https://beginnersbook.com/2013/04/java-finally-block/)). Java allows you to use a clause via the keyword `finally`. Let's see what this code does:
 
 ```java
 public class WildException4 {
@@ -133,58 +128,30 @@ public class WildException4 {
 
 ```
 
-The code block inside the`finally` will be executed in any case.
+The code block inside the `finally` will be executed in any case.
 
-```resource
-https://docs.oracle.com/javase/tutorial/essential/exceptions/chained.html
-# Optional: Chained exceptions
-```
+### More Resources 
 
-```resource
-https://docs.oracle.com/javase/tutorial/essential/exceptions/creating.html
-# Optional: Custom Exceptions
-```
+* [Java Exceptions - Try...Catch](https://www.w3schools.com/java/java_try_catch.asp)
+* [Java Finally block - Exception handling](https://beginnersbook.com/2013/04/java-finally-block/)
 
-```resource
-https://docs.oracle.com/javase/tutorial/essential/exceptions/throwing.html
-# Optional: The throw instruction
-```
+### Optional
 
-```resource
-https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html
-# Optional: The try-with-resources instruction
-```
-
-```resource
-https://beginnersbook.com/2013/04/java-finally-block/
-# Java Finally block - Exception handling
-```
-
-```resource
-https://www.w3schools.com/java/java_try_catch.asp
-# Java Exceptions - Try...Catch
-```
-
-```resource
-https://www.jmdoudoux.fr/java/dej/chap-exceptions.htm
-# Exception handling
-```
+* [Chained Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/chained.html)
+* [Custom Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/creating.html)
+* [The throw instruction](https://docs.oracle.com/javase/tutorial/essential/exceptions/throwing.html)
+* [The try-with-resources instruction](https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html)
 
 ## Challenge
+
 ### Sum of odd numbers
 
-To get started,[make a](https://github.com/WildCodeSchool/quest_java_exceptions.git)[Fork](https://github.com/WildCodeSchool/quest_java_exceptions.git)[ of the following deposit](https://github.com/WildCodeSchool/quest_java_exceptions.git) then clone it locally.
+To get started, [make a Fork of the following repository](https://github.com/WildCodeSchool/quest_java_exceptions.git) then clone it locally.
 > Remember to do a_Fork_or you won't be able to push anything!
 
-```bash
-./tester.sh OddSum
-
-```
-
 ### Validation criterias
-- The code is clean and contains the`try` and`catch`.
 
-- The test runs without error and all tests are OK.
-
-- Use the appropriate type of exception.
+* The code is clean and contains the `try` and `catch`.
+* The test runs without error and all tests are OK.
+* Use the appropriate type of exception.
 
