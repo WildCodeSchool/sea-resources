@@ -66,7 +66,7 @@ public class WildException2 {
         try {
             int i = 3;
             int j = 0;
-            System.out.println("résultat = " + (i / j));
+            System.out.println("result = " + (i / j));
         } catch (ArithmeticException e) {
             System.err.println("Division by Zero occurred!");
         }
