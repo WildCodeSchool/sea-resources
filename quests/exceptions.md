@@ -149,7 +149,7 @@ To get started, [make a Fork of the following repository](https://github.com/ice
 
 ### Validation criterias
 
-* The code is clean and contains the `try` and `catch`.
+* The code contains `try` and `catch`.
 * The test `OddSumTest` runs without error and all tests are OK.
 * Use the appropriate type of exception.
 
