@@ -45,15 +45,15 @@ As you can see, you had an exception and your program ended abruptly. You can ha
 
 #### 2. Keywords try, catch
 
-Look at [this course](https://www.jmdoudoux.fr/java/dej/chap-exceptions.htm#exceptions-1) he'll teach you everything you need to know about try and catch.
+Look at [this course](https://www.baeldung.com/java-exceptions) it will teach you everything you need to know about try and catch, finally and try-with-resources.
 
 #### 3. Explanations and remarks
 
 If an adverse event occurs in the block `try `block, the possibly non-executed part of this block is abandoned and the first block `catch` is processed.
 
-If a  `catch` block is set to capture the exception from the `try `If the block is a block, then it is processed by executing the code associated with the block.
+If a  `catch` block is set to capture the exception from the `try ` If the block is a block, then it is processed by executing the code associated with the block.
 
-If the block`catch` is empty (no instruction between braces) the captured exception is then ignored. Such use of the instruction`try`/`catch` is not a good practice: it is preferable to always provide an adapted treatment when catching an exception.
+If the block `catch` is empty (no instruction between braces) the captured exception is then ignored. Such use of the instruction `try`/`catch` is not a good practice: it is preferable to always provide an adapted treatment when catching an exception.
 
 #### 4. Example: Maintaining the Plant by Zero Exception
 
