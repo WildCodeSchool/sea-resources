@@ -45,15 +45,15 @@ As you can see, you had an exception and your program ended abruptly. You can ha
 
 #### 2. Keywords try, catch
 
-Look at [this course](https://www.jmdoudoux.fr/java/dej/chap-exceptions.htm#exceptions-1) he'll teach you everything you need to know about try and catch.
+Look at [this explanation](https://www.w3schools.com/java/java_try_catch.asp) it will teach you everything you need to know about `try` and `catch`.
 
 #### 3. Explanations and remarks
 
-If an adverse event occurs in the block `try `block, the possibly non-executed part of this block is abandoned and the first block `catch` is processed.
+If an adverse event occurs in the block `try` block, the possibly non-executed part of this block is abandoned and the first block `catch` is processed.
 
-If a  `catch` block is set to capture the exception from the `try `If the block is a block, then it is processed by executing the code associated with the block.
+If a  `catch` block is set to capture the exception from the `try` If the block is a block, then it is processed by executing the code associated with the block.
 
-If the block`catch` is empty (no instruction between braces) the captured exception is then ignored. Such use of the instruction`try`/`catch` is not a good practice: it is preferable to always provide an adapted treatment when catching an exception.
+If the block `catch` is empty (no instruction between braces) the captured exception is then ignored. Such use of the instruction `try`/`catch` is not a good practice: it is preferable to always provide an adapted treatment when catching an exception.
 
 #### 4. Example: Maintaining the Plant by Zero Exception
 
@@ -115,7 +115,7 @@ public class WildException4 {
         try {
             int i = 3;
             int j = 0;
-            System.out.println("résultat = " + (i / j));
+            System.out.println("result = " + (i / j));
         } catch (ArithmeticException e) {
             System.err.println("Division by Zero occurred!");
         } finally {
@@ -130,10 +130,9 @@ The code block inside the `finally` will be executed in any case.
 
 ### More Resources 
 
-* [Java Exceptions - Try...Catch](https://www.w3schools.com/java/java_try_catch.asp)
-* [Java Finally block - Exception handling](https://beginnersbook.com/2013/04/java-finally-block/)
+* [Baeldung on Java Exceptions](https://www.baeldung.com/java-exceptions)
 
-### Optional
+### Optional In-Depth Oracle Guides
 
 * [Chained Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/chained.html)
 * [Custom Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/creating.html)
@@ -149,7 +148,7 @@ To get started, [make a Fork of the following repository](https://github.com/ice
 
 ### Validation criterias
 
-* The code is clean and contains the `try` and `catch`.
+* The code contains `try` and `catch`.
 * The test `OddSumTest` runs without error and all tests are OK.
 * Use the appropriate type of exception.
 
