@@ -154,6 +154,6 @@ Things to look for:
 
 ## 🧐 Acceptance criteria
 
-⭙ You wrote a generic list class
-⭙ You have unit tests to check if things work
-⭙ Your code is commited and pushed to your git server
+⭙ You wrote a generic list class  
+⭙ You have unit tests to check if things work  
+⭙ Your code is commited and pushed to your git server  
