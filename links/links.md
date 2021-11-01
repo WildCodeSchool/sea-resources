@@ -44,6 +44,11 @@
 * [How to do what in Collections](https://www.baeldung.com/java-collections)
 * [Time Complexity of Collections](https://www.baeldung.com/java-collections-complexity)
 
+### Java JDBC
+
+* [Introduction to JDBC](https://www.marcobehler.com/guides/jdbc)
+* [Correct Try-With-Resources](https://stackoverflow.com/questions/8066501/how-should-i-use-try-with-resources-with-jdbc)
+
 ### Data Generator
 
 * https://generatedata.com/
