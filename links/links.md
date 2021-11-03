@@ -59,6 +59,6 @@
 
 * https://github.com/jitsi/jitsi-meet-electron
 
-#### Online JSON Formatter
+#### Online JSON Formatter (Do not use for sensitive data! Use IntelliJ or VSCode Plugins instead)
 
 * https://jsonformatter.curiousconcept.com/
