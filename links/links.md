@@ -49,6 +49,11 @@
 * [Introduction to JDBC](https://www.marcobehler.com/guides/jdbc)
 * [Correct Try-With-Resources](https://stackoverflow.com/questions/8066501/how-should-i-use-try-with-resources-with-jdbc)
 
+### Optional and Null
+
+* Historie und Einordnung: https://hackernoon.com/null-the-billion-dollar-mistake-8t5z32d6
+* Beispiele und Technik: https://www.baeldung.com/java-optional
+ 
 ### Data Generator
 
 * https://generatedata.com/
