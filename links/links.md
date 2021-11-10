@@ -51,8 +51,8 @@
 
 ### Optional and Null
 
-* Historie und Einordnung: https://hackernoon.com/null-the-billion-dollar-mistake-8t5z32d6
-* Beispiele und Technik: https://www.baeldung.com/java-optional
+* [Context and History ("Billion Dollar Mistake")](https://hackernoon.com/null-the-billion-dollar-mistake-8t5z32d6)
+* [Samples and technical explanations](https://www.baeldung.com/java-optional)
  
 ### Data Generator
 
