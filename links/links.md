@@ -53,6 +53,10 @@
 
 * [Context and History ("Billion Dollar Mistake")](https://hackernoon.com/null-the-billion-dollar-mistake-8t5z32d6)
 * [Samples and technical explanations](https://www.baeldung.com/java-optional)
+
+### Spring Framework
+
+* [What is Spring Framework?](https://www.marcobehler.com/guides/spring-framework)
  
 ### Data Generator
 
