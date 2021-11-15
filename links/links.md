@@ -49,6 +49,15 @@
 * [Introduction to JDBC](https://www.marcobehler.com/guides/jdbc)
 * [Correct Try-With-Resources](https://stackoverflow.com/questions/8066501/how-should-i-use-try-with-resources-with-jdbc)
 
+### Java 8: Lambdas & Streams 
+
+* [Winterbe: Java 8 Stream Tutorial](https://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/)
+
+### JPA & Hibernate
+
+* [JPA Tutorial](https://www.javaguides.net/p/jpa-tutorial-java-persistence-api.html)
+* [Many-to-Many Tutorial](https://www.javaguides.net/2019/08/jpa-hibernate-one-to-many-bidirectional-mapping-example.html)
+
 ### Optional and Null
 
 * [Context and History ("Billion Dollar Mistake")](https://hackernoon.com/null-the-billion-dollar-mistake-8t5z32d6)
