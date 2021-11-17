@@ -52,6 +52,8 @@
 ### Java 8: Lambdas & Streams 
 
 * [Winterbe: Java 8 Stream Tutorial](https://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/)
+* [Stackify Streams Guide, More Samples](https://stackify.com/streams-guide-java-8/)
+* [More Detailed Tutorial](http://tutorials.jenkov.com/java/lambda-expressions.html)
 
 ### JPA & Hibernate
 
